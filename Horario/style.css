@@ -1,0 +1,12 @@
+.colorAzul{
+    background-color: rgb(77, 145, 255);
+    color:black
+
+}
+ .imagenDerecha{
+    position: absolute;
+    right: 0;
+    top: 10px;
+    height: 130px;
+}
+ 
