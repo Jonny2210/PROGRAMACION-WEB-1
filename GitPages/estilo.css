@@ -1,0 +1,28 @@
+h1{ 
+    color:blue;
+    border: 1px solid rebeccapurple;
+}
+/* Sirve para generalizar los cambios a todos los parrafos (p)
+p{
+    font-size: 35px;
+    border: 1px solid red;
+} */
+/* Sirve para solo unos parrafos en especifico de todos los parrafos que puede haber en el codigo */
+.parrafoRojo{
+    font-size: 35px;
+    border: 1px solid red;
+}
+
+.parrafoAmazul{
+    color: brown;
+    background-color: chartreuse;
+    border: 2px solid yellow;
+    margin-top: 120px;
+    padding-bottom: 120px;
+
+}
+
+.parrafoMorado{
+    font-size: 20px;
+    border: 1px solid rgb(169, 5, 251);
+}
