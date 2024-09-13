@@ -30,7 +30,7 @@ body{
 }
 .texto2{
     font-size: 1em;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: justify;
 }
 .separacion{
@@ -40,6 +40,7 @@ body{
 .texto3{
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
 }
 .borde{
     border: 10px solid rgb(235, 203, 88);
@@ -50,6 +51,12 @@ body{
     color: white;
     text-align: center;
     padding-left: 5em;
+}
+p{
+    color: white;
+}
+li{
+    color: white;
 }
 .bordeSlateblue{
     border: 2px solid black;
