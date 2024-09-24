@@ -1,0 +1,69 @@
+body{
+    background: rgb(235,203,88);
+    background: radial-gradient(circle, rgba(235,203,88,0.7148109243697479) 0%, rgba(0,0,0,1) 51%, rgba(235,203,88,0.6363795518207283) 100%);
+    /* padding-top: 5em;
+    padding-left: 5em;
+    padding-right: 5em; este lo mueve a la direccion que le indiques 
+     */
+    padding: 5em;/*Pading da espacios de separacion de ariba,derecha,abajo, izquierda  */
+    font-family: 'MisterGrape', sans-serif;
+}
+.fondoblanco{
+    background-color: white;
+}
+.fondoAmarillo{
+    background-color: rgb(248, 236, 77);
+}
+.fondoRojo{
+    background-color: red;
+}
+.fondoNegro{
+    background-color: black;
+}
+.imagen{
+    width: 150px;
+
+}
+.texto1{
+    text-align: center;
+    font-size: 3em;
+    color: antiquewhite;
+}
+.texto2{
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
+.separacion{
+    padding: 1em;
+
+}
+.texto3{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.borde{
+    border: 10px solid rgb(235, 203, 88);
+    border-radius: 10px;
+}
+.texto4{
+    font-size: 1em;
+    color: white;
+    text-align: center;
+    padding-left: 5em;
+}
+p{
+    color: white;
+}
+li{
+    color: white;
+}
+.bordeSlateblue{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+@font-face {
+    font-family: 'MisterGrape'; /* Nombre de la fuente */
+    src: url('MisterGrape.otf') format('truetype'); /* Ruta a la fuente */
+}
